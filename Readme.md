@@ -17,6 +17,7 @@ Participants join a discussion, engage, and receive rewards in the form of **Dis
 ## Contract Address
 
  DiscussionTokenAddress = 0x037FE75b03dA07CDa20fC7C020964880D196C62B
+ 
  DiscussionRewardAddress = 0xe87605D5BcD55a2cb348B4fc815F243e55A7A4A2
 
 ## Project Vision
