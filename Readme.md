@@ -18,7 +18,13 @@ Participants join a discussion, engage, and receive rewards in the form of **Dis
 
  DiscussionTokenAddress = 0x037FE75b03dA07CDa20fC7C020964880D196C62B
  
+ ![image](https://github.com/user-attachments/assets/eef99aa6-204f-47d2-a4d6-4703afa834ac)
+
+ 
  DiscussionRewardAddress = 0xe87605D5BcD55a2cb348B4fc815F243e55A7A4A2
+ 
+ ![image](https://github.com/user-attachments/assets/3a9f2446-9847-4412-9c6b-e0941411fa09)
+
 
 ## Project Vision
 
